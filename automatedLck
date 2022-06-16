@@ -1,5 +1,5 @@
 {
-  "lockingComputer" : 88,
-  "timestamp" : 1655339278374,
-  "state" : "GAME_LUNCHED"
+  "lockingComputer" : 0,
+  "timestamp" : 0,
+  "state" : null
 }
