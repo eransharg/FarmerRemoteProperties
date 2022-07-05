@@ -1,5 +1,5 @@
 {
-  "lockingComputer" : 0,
-  "timestamp" : 0,
-  "state" : null
+  "lockingComputer" : 811,
+  "timestamp" : 1657064281273,
+  "state" : "IN_GAME_MENU"
 }
